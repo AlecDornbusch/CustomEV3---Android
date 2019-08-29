@@ -1,1 +1,1 @@
-include ':app', ':cgiazubislejoslibrary'
+include ':app', ':cgiAzubisLejosLibrary'
